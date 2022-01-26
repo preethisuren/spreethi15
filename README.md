@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @spreethi15
 - 👀 I’m interested in Cryptography and Machine Learning
 - 🌱 I’m currently learning various models of machine learning and how it's used in cryptographic problems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 spreethi15/spreethi15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
