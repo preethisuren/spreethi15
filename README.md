@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spreethi15
+- 👋 Hi, I’m @spreethisuren
 - 👀 I’m interested in Cryptography and Machine Learning
 - 🌱 I’m currently learning various models of machine learning and how it's used in cryptographic problems
 
